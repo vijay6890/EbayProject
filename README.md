@@ -13,4 +13,4 @@ Test NG Execution Framework
 Cucumber BDD - Gherkin
 
 
-Cucumber Runner File to be executed for the test execution and reports.
+Executon File: Cucumber Runner File (Basic reporting included)
